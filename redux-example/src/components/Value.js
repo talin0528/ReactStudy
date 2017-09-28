@@ -7,9 +7,7 @@ const defaultProps = {
   number: -1
 };
 class Value extends Component {
-    constructor(props) {
-        super(props);
-    }
+
     render() {
         return(
             <div>
